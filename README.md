@@ -40,28 +40,16 @@ I enjoy solving business challenges through **data analysis, machine learning, a
 
 ## 🚀 Featured Projects  
 
-### 🧠 [RAG-Powered Web Content Q&A System with Citation Support](#)
-Developed a Retrieval-Augmented Generation (RAG) pipeline using **FastAPI**, **Streamlit**, and **ChromaDB** for real-time question answering with verified citations.  
-📈 **Highlights:** MAP/MRR = 0.8333 | F1 = 0.7222  
-🧩 **Tech Stack:** FastAPI, LangChain, Streamlit, OpenAI, AWS  
+| 🧩 **Project** | 📝 **Description** | 🧠 **Tech Stack** | 🔗 **Link** |
+|----------------|--------------------|------------------|-------------|
+| **💰 Analyzing Personal Expenses** | Built an expense tracker using Faker-generated data, stored monthly insights in SQL, and visualized spending trends across categories like bills, groceries, and subscriptions in a Streamlit app. | 🐍 Python · 🗃️ SQL · 📊 Streamlit · 📈 EDA · 💹 Financial Analysis | [🔗 Repo](https://github.com/SSaranya19/Expenses_Tracker_Streamlit_App_Project.git) |
+| **🚚 Amazon Delivery Time Prediction** | Predicted e-commerce delivery times using features like distance, traffic, and shipping method. Applied regression modeling and deployed an interactive prediction interface via Streamlit. | 🐍 Python · 🧮 Pandas · 📘 NumPy · 🤖 Scikit-learn · ⚡ XGBoost · 📊 Matplotlib · 🎯 MLflow · 🌐 Streamlit | [🔗 Repo](https://github.com/SSaranya19/Amazon-Delivery-Time-Prediction.git) |
+| **💉 Vaccination Data Analysis & Visualization** | Analyzed global vaccination datasets to reveal coverage, disease incidence, and vaccine impact trends. Integrated SQL and Power BI for data-driven public health insights. | 🐍 Python · 🗃️ SQL · 📊 Power BI · 🔍 EDA · 🧩 Data Visualization | [🔗 Repo](https://github.com/SSaranya19/Vaccination-Data-Analysis-and-Visualization.git) |
+| **📱 Decoding Phone Usage Patterns in India** | Explored mobile usage patterns across Indian users using clustering and ML to identify behavior segments. Created interactive analytics in Streamlit. | 🐍 Python · 🧮 pandas · 📘 NumPy · 🎨 Seaborn · 📊 Matplotlib · ⚙️ Scikit-learn · 🔍 XGBoost · 🔢 SciPy · 🌐 Streamlit | [🔗 Repo](https://github.com/SSaranya19/Decoding-Phone-Usage-Patterns-in-India.git) |
+| **✈️ Flight Price & Customer Satisfaction Prediction** | Developed regression and classification models for predicting flight ticket prices and customer satisfaction. Integrated MLflow for tracking and deployed via Streamlit. | 🐍 Python · 🧩 Feature Engineering · 📊 MLflow · 🤖 Regression · 🎯 Classification · 🌐 Streamlit | [🔗 Repo](https://github.com/SSaranya19/Flight-Price-and-Customer-Satisfaction-Prediction.git) |
+| **📚 Audible Insights: Intelligent Book Recommendations** | Designed an intelligent book recommendation system using NLP, TF-IDF, and clustering algorithms. Deployed via Streamlit on AWS for personalized reading insights. | 🐍 Python · 🤖 Machine Learning · 🗣️ NLP · 🔍 Clustering · 🌐 Streamlit · ☁️ AWS | [🔗 Repo](https://github.com/SSaranya19/Audible-Insights-Intelligent-Book-Recommendations.git) |
+| **🧠 RAG-Powered Web Content Q&A System with Citation Support** | Developed a Retrieval-Augmented Generation (RAG) system to answer queries from indexed websites using FastAPI backend, LangChain orchestration, and Streamlit frontend. | 🌐 FastAPI · 🧩 LangChain · 🧮 ChromaDB · 🤖 OpenAI API · 🔐 JWT · 🪄 BeautifulSoup · ☁️ AWS | [🔗 Repo](https://github.com/SSaranya19/RAG-Website-Retrieval-QA.git) |
 
----
-
-### 📚 [Audible Insights: Intelligent Book Recommendation System](#)
-Engineered and optimized hybrid clustering models (**F1 = 98.5%, Accuracy = 99.5%**) and deployed the solution via Streamlit on AWS for personalized, real-time book recommendations.  
-🧩 **Tech Stack:** Python, Scikit-learn, NLP, Streamlit, AWS  
-
----
-
-### ✈️ [Flight Price & Customer Satisfaction Prediction](#)
-Trained and optimized regression and classification models (**R² = 0.995, F1 = 0.825**) and deployed them in a Streamlit app for interactive, dynamic prediction and visualization.  
-🧩 **Tech Stack:** Python, MLflow, Streamlit, XGBoost, Random Forest  
-
----
-
-### 💉 [Vaccination Data Analysis & Visualization](#)
-Analyzed vaccination trends (97% urban coverage, 2.89% dose drop-off) to uncover correlations between uptake and disease reduction, delivering insights for public health policy decisions.  
-🧩 **Tech Stack:** Power BI, SQL, Python  
 
 ---
 
